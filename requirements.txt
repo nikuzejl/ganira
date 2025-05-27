@@ -1,2 +1,4 @@
 streamlit
 openai
+azure-ai-inference
+PyPDF2
